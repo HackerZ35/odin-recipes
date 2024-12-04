@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    margin-left: -30px;
+    background-image: url(/Projects/project1/odin-recipes/img/pexels-apgpotr-683039.jpg);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 100px;
+    color: rgb(226, 196, 97);
+    margin-top: 150px;
+    border-style: groove;
+    border-color: burlywood;
+
+}
+
+ul{
+    background-color: antiquewhite;
+    background-position-x: center;
+    
+}
+
+li {
+    font-size: 40px;
+    color: brown;
+    
+}
